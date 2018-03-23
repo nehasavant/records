@@ -1,5 +1,5 @@
 # records
-A package that uses REST APIs and requests to select occurrence records on GBIF database
+A package that uses REST APIs and requests to select occurrence records from the [GBIF] biodiveristy database
 
 # Installation instructions
 
@@ -16,3 +16,4 @@ pip install .
 import records
 records.Records()
 ```
+[GBIF]: https://www.gbif.org/
